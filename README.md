@@ -4,4 +4,4 @@
 
 * Django
 * Bootstrap 
-* Sqlite
+* PostgreSql
