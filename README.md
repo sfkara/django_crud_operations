@@ -4,4 +4,4 @@
 
 * Django
 * Bootstrap 
-* PostgreSql
+* Postgresql
