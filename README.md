@@ -1,1 +1,7 @@
-# django_crud_operations
+# Django Employee 
+# Django Crud Operations
+## Built With
+
+* Django
+* Bootstrap 
+* Sqlite
